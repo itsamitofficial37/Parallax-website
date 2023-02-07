@@ -11,6 +11,7 @@
     overflow-y: auto;
     overflow-x: hidden;
     perspective: 10px;
+    background-color: rgb(45,45,45);
 }
 
 .container {
@@ -63,7 +64,7 @@ section {
 .text {
      font-size: 1.5rem;
      padding: 0 10rem;
-     margin: 5rem 0;
+     margin: 5rem auto;
 }
 
 .desc {
